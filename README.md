@@ -6,4 +6,7 @@ O objetivo é criar uma aplicação web onde seram digitado os nomes participant
 Durante o preenchimento da lista, não será aceita inserções sem identificação do nome (campo vazio).
 Foram aplicados comandos específicos para o desenvolvimento, tais como :
 documet.getElementById, document.querySelector, innerHTML, Math.random(), Math.floor() e utilização do método .push() na manipulação do array.
+
 Segue vídeo instrutivo de operação do Jogo :
+
+https://github.com/user-attachments/assets/1a9d16c2-fab2-4c93-a84a-2f476a1c3a9c
