@@ -10,3 +10,6 @@ documet.getElementById, document.querySelector, innerHTML, Math.random(), Math.f
 Segue vídeo instrutivo de operação do Jogo :
 
 https://github.com/user-attachments/assets/1a9d16c2-fab2-4c93-a84a-2f476a1c3a9c
+
+Ou execute pelo link => https://jogo-amigo-secreto-six-zeta.vercel.app/
+
