@@ -7,4 +7,3 @@ Durante o preenchimento da lista, não será aceita inserções sem identificaç
 Foram aplicados comandos específicos para o desenvolvimento, tais como :
 documet.getElementById, document.querySelector, innerHTML, Math.random(), Math.floor() e utilização do método .push() na manipulação do array.
 Segue vídeo instrutivo de operação do Jogo :
-https://github.com/user-attachments/assets/1f15c476-f98c-4f81-9c15-88fe3ceaf00a
